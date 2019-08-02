@@ -1,0 +1,39 @@
+.topnav{
+    background-color: none;
+    overflow: hidden;
+    margin:0;   
+}
+
+
+.topnav a{
+    float: left;
+    color: black ;
+    text-align: center;
+    padding: 12px 110px;
+    text-decoration: none;
+    font-size: 17;
+    font-family: 'Blinker', sans-serif;
+}
+
+
+
+body{
+    background-color: gray;
+}
+
+h2{
+    color: black;
+    text-decoration: underline;
+}
+
+p{
+    color:black;
+}
+
+.contact{
+    border: solid 3px;
+    margin:10px;
+    text-align: center;
+    border-radius: 25px;
+    padding:30px;
+}

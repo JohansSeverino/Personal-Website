@@ -1,0 +1,69 @@
+body{
+    background-color: gray;
+    
+    }
+
+    .topnav{
+        background-color: none;
+        overflow: hidden;
+        margin:0;   
+    }
+    
+    
+    .topnav a{
+        float: left;
+        color: black ;
+        text-align: center;
+        padding: 12px 110px;
+        text-decoration: none;
+        font-size: 17;
+        font-family: 'Blinker', sans-serif;
+    }
+
+img{
+    width: 500px;
+    height:300px;
+}
+
+h2{
+    font-family: 'Blinker', sans-serif;
+    text-decoration: underline;
+}
+h1{
+    font-family: 'Blinker', sans-serif;
+    text-decoration: underline;  
+}
+p{
+    font-family: 'Blinker', sans-serif;
+}
+
+input{
+    color:black;
+    background-color:gray;
+    border-radius: 25px
+}
+
+#project1{
+    border: solid 3px;
+    margin:10px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+#project2{
+    border: solid 3px;
+    margin:10px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+input{
+    margin:5px;
+}
+
+@media (max-width: 600px) {
+    img{
+        width: 90%;
+        height: 80%
+    }
+}
